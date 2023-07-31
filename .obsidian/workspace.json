@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8b0fbf4c350592",
+        "id": "f73960f9b02151d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f98a1a643c12f8f",
+            "id": "2c4e542f355b9ab7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "中间件/RocketMQ/RocketMQ面试题.md",
-                "mode": "source",
-                "source": false
+                "file": "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609 1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/RocketMQ/RocketMQ面试题.md",
+                "file": "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/RocketMQ/RocketMQ面试题.md",
+                "file": "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/RocketMQ/RocketMQ面试题.md"
+                "file": "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609 1.png"
               }
             }
           }
@@ -148,8 +146,17 @@
   },
   "active": "0c72237f9ce41bba",
   "lastOpenFiles": [
-    "README.md",
+    "Spring/Spring Cloud/Feign/Feign简单代码解析.md",
+    "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609 1.png",
+    "Spring/Spring Cloud/SpringCloud总架构图.md",
+    "Spring/Spring Cloud/Feign/images/Pasted image 20230727181609.png",
+    "Spring/Spring Cloud/Ribbon/Ribbon详解和实例.md",
+    "Spring/Spring Cloud/images/Pasted image 20230727160528.png",
+    "Spring/Spring Cloud/images/Pasted image 20230727160358.png",
+    "Spring/Spring Cloud/images/Pasted image 20230727144444.png",
+    "Spring/Spring Cloud/images/Pasted image 20230727144005.png",
     "中间件/RocketMQ/RocketMQ面试题.md",
+    "README.md",
     "中间件/RocketMQ",
     "中间件"
   ]
