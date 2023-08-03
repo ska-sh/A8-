@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1a1e698fbba1518",
+  "active": "0c72237f9ce41bba",
   "lastOpenFiles": [
+    "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md",
     "中间件/dubbo/image/Pasted image 20230803160151.png",
     "中间价/dubbo/image/Pasted image 20230803160151.png.md",
-    "中间件/dubbo/Dubbo Consumer 调用 Provider 过程.md",
     "中间价/dubbo/image",
     "中间价/dubbo",
     "中间价",
