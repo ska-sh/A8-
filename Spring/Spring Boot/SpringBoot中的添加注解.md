@@ -1,0 +1,15 @@
+1. ConditionalOnBean：是否存在某个某类或某个名字的Bean
+2. ConditionalOnMissingBean：是否缺失某个某类或某个名字的Bean
+3. ConditionalOnSingleCandidate：是否符合指定类型的Bean只有一个
+4. ConditionalOnClass：是否存在某个类
+5. ConditionalOnMissingClass：是否缺失某个类
+6. ConditionalOnExpression：指定的表达式返回的是true还是false
+7. ConditionalOnJava：判断Java版本
+8. ConditionalOnJndi：JNDI指定的资源是否存在
+9. ConditionalOnWebApplication：当前应用是一个Web应用
+10. ConditionalOnNotWebApplication：当前应用不是一个Web应用
+11. ConditionalOnProperty：Environment中是否存在某个属性
+12. ConditionalOnResource：指定的资源是否存在
+13. ConditionalOnWarDeployment：当前项目是不是以War包部署的方式运行
+14. ConditionalOnCloudPlatform：是不是在某个云平台上
+15. 利用@Conditional来自定义条件注解
